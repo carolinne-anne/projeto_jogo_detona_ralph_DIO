@@ -10,7 +10,6 @@ Este é um jogo desenvolvido como parte de um desafio da **DIO** (Digital Innova
 2. [Como Jogar](#como-jogar)
 3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 4. [Como Rodar o Projeto](#como-rodar-o-projeto)
-5. [Licença](#licença)
 
 ---
 
